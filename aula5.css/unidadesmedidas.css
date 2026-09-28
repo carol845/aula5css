@@ -1,0 +1,40 @@
+*{
+    margin:10px;
+    font-size:20px;
+}
+.box1{
+    font-size:20px;
+}
+.box2{
+    font-size:1.5rem;
+}
+article{
+    font-size:2px;
+}
+ol{
+font-size:2rem;
+}
+li{
+    font-size:2rem;
+}
+article{
+    background-color: brown;
+    height: 50vh;
+    width: 50vh;
+}
+section{
+    background-color: coral;
+}
+.box3{
+    margin: 0%;
+    padding: 0%;
+    width: 600px;
+    height: 300px;
+    background-color: blueviolet
+}
+.box4{
+    margin:0%;
+    padding:0%;
+    width:50%;
+    background-color: blanchedalmond;
+}

@@ -1,0 +1,21 @@
+img {
+    float: right
+}
+
+.box1 {
+    background-color: aquamarine;
+    width: 150px;
+    height: 150px;
+    padding: 20px;
+    box-sizing: border-box;
+    border-color: aquamarine;
+}
+
+.box2 {
+    background-color: beige;
+    box-sizing: border-box;
+    width: 150px;
+    height: 150px;
+    border: 5px double;
+    
+}

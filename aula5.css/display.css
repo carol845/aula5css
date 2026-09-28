@@ -1,0 +1,13 @@
+div{
+    height: 200px;
+    width: 200px;
+    border:2px;color: aqua;
+    margin:10px;
+}
+.box1{
+    background-color: blue;
+    display: inline;
+}
+.box2{
+    background-color: chartreuse;
+}
